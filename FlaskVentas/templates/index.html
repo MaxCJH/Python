@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista de Trabajadores</title>
+</head>
+<body>
+    <h1>Lista de Trabajadores con Sueldo Mayor a 350,000</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Sueldo</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for trabajador in data %}
+            <tr>
+                <td>{{ trabajador.nombre }}</td>
+                <td>{{ trabajador.sueldo }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

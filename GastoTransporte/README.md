@@ -1,0 +1,3 @@
+El proyecto consiste en un programa en Python que permite al usuario ingresar el costo del pasaje para cada día de la semana (Lunes, Martes, Miércoles, Jueves y Viernes) y la cantidad de semanas. Luego, el programa calcula el costo total del pasaje semanal y mensual, y los imprime en pantalla.
+
+El programa solicita al usuario ingresar los datos correspondientes y realiza los cálculos necesarios. Luego muestra el resultado en forma de texto, indicando el costo del pasaje de una semana y el costo del pasaje de un mes.

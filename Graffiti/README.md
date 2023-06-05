@@ -1,0 +1,1 @@
+El código utiliza la biblioteca Turtle en Python para dibujar una espiral geométrica utilizando un ciclo for. El dibujo consiste en una serie de segmentos rectos y giros que forman una figura compleja. Es un proyecto interesante para explorar las capacidades de dibujo de Turtle en Python.

@@ -1,0 +1,5 @@
+ El proyecto consiste en un generador de contraseñas. El programa solicita al usuario el número mínimo de caracteres en minúscula, el número mínimo de caracteres en mayúscula, el número mínimo de caracteres numéricos y la longitud deseada de la contraseña. Luego, genera una contraseña que cumple con los requisitos especificados por el usuario.
+
+El programa utiliza la biblioteca random y string para generar la contraseña. Realiza una comprobación para asegurarse de que la contraseña generada cumple con los requisitos mínimos establecidos por el usuario en términos de cantidad de caracteres en minúscula, mayúscula y numéricos. Luego muestra la contraseña generada en pantalla.
+
+Después de mostrar la contraseña, el programa pregunta al usuario si desea continuar generando más contraseñas. Si el usuario responde "n" para "no", el programa termina. 
